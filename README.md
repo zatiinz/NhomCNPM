@@ -10,3 +10,12 @@
 | 8   | Kiểm thử hệ thống            | Test chức năng, sửa lỗi                         | Tất cả thành viên       | 18/06/2025   | 20/06/2025      | ⏳ Chưa bắt đầu  |
 | 9   | Viết báo cáo                 | Viết tài liệu mô tả hệ thống, hướng dẫn sử dụng | Ly                      | 18/06/2025   | 21/06/2025      | ⏳ Chưa bắt đầu  |
 | 10  | Nộp và báo cáo dự án         | Demo, thuyết trình trước hội đồng               | Tất cả nhóm             | 22/06/2025   | 23/06/2025      | ⏳ Chưa bắt đầu  |
+
+
+| Người  | Nội dung chính                      | Hình phụ trách       |
+| ------ | ----------------------------------- | -------------------- |
+| ** 1** | Phân tích chức năng, Use Case       | Hình 1, 5, 6, 7      |
+| ** 2** | Biểu đồ hoạt động & trình tự cơ bản | Hình 2, 3, 4, 12, 13 |
+| ** 3** | Biểu đồ lớp & mô hình 3 lớp         | Hình 8 → 11, 21 → 23 |
+| ** 4** | Trình tự nâng cao, trạng thái, ERD  | Hình 14 → 20         |
+| ** 5** | Giao diện hệ thống                  | Hình 24 → 31         |
